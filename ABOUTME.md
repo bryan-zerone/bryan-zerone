@@ -1,0 +1,4 @@
+- Hi, I’m Bryan Zerone
+- I’m interested in learning how to create efficient products that create a positive impact
+- I’m currently learning the basics of python and full stack development
+- I’m looking to collaborate on services aimed at tackling the world's climate crisis
